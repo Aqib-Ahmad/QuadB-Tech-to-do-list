@@ -15,8 +15,9 @@ Bootstrap:For responsive and styling and polished looks.
 
 Getting Started
 check node version and npm.
-go into directory of application and use (npm i/install).
 
 Start application
+ git clone https://github.com/Aqib-Ahmad/QuadB-Tech-to-do-list.git
+go into directory of application and use (npm i/install).
 npm run dev
 
